@@ -2,6 +2,8 @@
 
 This repository contains a prototype of a 8-bit letter using python + pygame_sdl.
 
+[8bit-letter](8bit-letter-example.gif)
+
 ## Installation
 
 You will **need** of:
