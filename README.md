@@ -1,10 +1,10 @@
 # 8bit-letter
 
-This repository contains a prototype of a 8-bit letter using pygame.
+This repository contains a prototype of a 8-bit letter using python + pygame_sdl.
 
 ## Installation
 
-You do **need** of:
+You will **need** of:
   * [Python](https://www.python.org/)
   * [Pygame](http://www.pygame.org/download.shtml)
 
