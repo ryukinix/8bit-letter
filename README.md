@@ -7,20 +7,21 @@ This repository contains a prototype of a 8-bit letter using **python** + **pyga
 ## Installation
 
 You will **need** of:
-  * [Python](https://www.python.org/)
-  * [Pygame](http://www.pygame.org/download.shtml)
+
+* [Python](https://www.python.org/)
+* [Pygame](http://www.pygame.org/download.shtml)
 
 To install pygame in linux debian-based you have two options:
 
-  * Using **apt**:
-    ```bash
-    sudo apt-get install python-pygame
-    ```
- 
-  * Using **pip**:
-    ```bash
-    sudo pip install pygame
-    ```
+* Using **apt**:
+  ```bash
+  sudo apt-get install python-pygame
+  ```
+
+* Using **pip**:
+  ```bash
+  sudo pip install pygame
+  ```
 
 And now only execute the `gchr.py`!
 
@@ -48,8 +49,9 @@ And now only execute the `gchr.py`!
 MIT
 
 ## Roadmap
-  - [X] basic alfanum characters in pieces.py 
-  - [ ] Input mode
-    - [ ] A smart method to write the buffer
-    - [X] A way to use backspace
-    - [ ] Some delicious features
+
+- [X] basic alfanum characters in pieces.py 
+- [ ] Input mode
+  - [ ] A smart method to write the buffer
+  - [X] A way to use backspace
+  - [ ] Some delicious features
