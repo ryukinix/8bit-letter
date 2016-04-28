@@ -51,7 +51,6 @@ MIT
 ## Roadmap
 
 - [X] basic alfanum characters in pieces.py 
-- [ ] Input mode
-  - [ ] A smart method to write the buffer
+- [X] Input mode
+  - [-] A smart method to write the buffer
   - [X] A way to use backspace
-  - [ ] Some delicious features
